@@ -1,5 +1,6 @@
 name: Code Review
-on:[push]
+run-name: ${{ github.actor }} is learning GitHub Actions
+on: [push]
 jobs:
   test:
     runs-on: ubuntu-latest
