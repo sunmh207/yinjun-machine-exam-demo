@@ -1,8 +1,12 @@
 <?php
 
 #这里是注释
-echo 'abc', $var;
+echo 'abc';
 
-var_dump('abcdexe');
+$var=10;
 
-//this is another line
+var_dump('abc');
+
+#this is another line
+
+$line = 10;
