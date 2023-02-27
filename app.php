@@ -7,6 +7,5 @@ $var=10;
 
 var_dump('abc');
 
-#this is another line
-
+//this is another line
 $line = 10;
